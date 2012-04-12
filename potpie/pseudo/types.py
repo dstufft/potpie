@@ -15,7 +15,7 @@ class BracketsPseudoType(PseudoTypeMixin):
         
         Translations must begin and end with \n if the msgid does so.
         """
-        return self._skip_char_around(string, char='\\\\n')
+        return self._skip_char_around(string, char='\n')
 
     def _properties(self, string):
         """
