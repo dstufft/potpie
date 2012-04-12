@@ -3,8 +3,8 @@ Potpie: Pseudo Po Translations
 
 
 Potpie is a GPL Licensed cli wrapper around the Psuedo Translations available
-from `Transifex's`_ pseudo translations. The available types are brackets, unicode,
-planguage, extend and mixed.
+from `Transifex's`_ pseudo translations. The available types are ``brackets``,
+``unicode``, ``planguage``, ``extend``, and ``mixed``.
 
 
 Installation
