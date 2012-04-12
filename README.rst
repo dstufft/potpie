@@ -45,16 +45,13 @@ Brackets
     Adds square brackets around the string (e.g. [translated text])
 
 Unicode
-    Converts all characters into look alike unicode characters (e.g. Ƞȧḿḗ)
+    Converts all characters into look alike unicode characters
 
 PLanguage
     Increases the length of a string by around 30-50% by replacing the vowels with
     unicode chars that look alike.
 
     This is based on a P-language, which is a simple vowel-extending language.
-    Examples:
-        - "hello" becomes "héPéllôPô": hé + Pé + llô +Pô
-        - "because" becomes "béPécåüPåüséPé": bé + Pé + cåü + Påü + sé + Pé
 
 Extend:
     Increases the length of a string by around 20-700% by appending special
